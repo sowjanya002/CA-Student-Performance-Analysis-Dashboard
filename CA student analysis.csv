@@ -1,0 +1,501 @@
+student_id,age,gender,ca_level,study_hours_per_day,coaching_type,exam_attempts,stress_level,family_support,part_time_work,sleep_hours,mock_tests_attempted,revision_rounds,articleship_status,marks_percentage,state,country,exam_session,status
+1,24,Male,Foundation,12,Offline,1,4,Low,No,9,0,2,Not Applicable,47.8,Karnataka,India,November,Pass
+2,21,Female,Foundation,5,Self-Study,3,4,High,No,5,10,0,Not Applicable,26,Delhi,India,May,Fail
+3,28,Male,Intermediate,5,Self-Study,5,2,Low,Yes,8,20,4,Not Applicable,34.3,Delhi,India,November,Fail
+4,25,Male,Foundation,8,Offline,3,3,High,No,9,14,0,Not Applicable,39.7,West Bengal,India,November,Pass
+5,22,Female,Foundation,3,Online,1,3,Medium,Yes,7,1,4,Not Applicable,29.1,Telangana,India,May,Fail
+6,24,Female,Foundation,9,Offline,3,1,Medium,No,9,19,1,Not Applicable,36.8,Kerala,India,November,Pass
+7,27,Male,Intermediate,3,Offline,1,6,Medium,No,8,6,0,Not Applicable,20,West Bengal,India,May,Fail
+8,20,Male,Final,7,Offline,4,8,High,No,6,20,1,Pursuing,30,Telangana,India,November,Fail
+9,24,Female,Intermediate,12,Online,3,3,Medium,No,5,11,0,Not Applicable,39.9,Telangana,India,November,Pass
+10,28,Male,Intermediate,10,Self-Study,4,5,High,Yes,8,17,2,Not Applicable,42.6,Maharashtra,India,May,Pass
+11,28,Female,Final,6,Offline,4,1,Medium,No,6,2,3,Completed,28.4,Uttar Pradesh,India,November,Fail
+12,25,Female,Intermediate,7,Online,2,10,Low,Yes,9,6,5,Not Applicable,35.1,Uttar Pradesh,India,November,Fail
+13,22,Male,Foundation,6,Online,1,7,High,Yes,9,10,5,Not Applicable,23,Uttar Pradesh,India,November,Fail
+14,21,Male,Foundation,6,Offline,5,10,Medium,Yes,8,17,5,Not Applicable,24.6,Gujarat,India,November,Fail
+15,25,Female,Foundation,10,Self-Study,1,1,Medium,No,7,11,1,Not Applicable,60,West Bengal,India,November,Pass
+16,25,Male,Intermediate,4,Offline,5,9,High,No,9,5,4,Not Applicable,28,Telangana,India,November,Fail
+17,20,Male,Intermediate,3,Offline,1,8,Medium,Yes,7,4,5,Not Applicable,24.1,Maharashtra,India,November,Fail
+18,23,Female,Intermediate,5,Online,4,7,Low,Yes,7,0,2,Not Applicable,20,Delhi,India,November,Fail
+19,22,Female,Foundation,11,Offline,3,10,Medium,Yes,7,11,5,Not Applicable,46.4,Kerala,India,May,Pass
+20,19,Female,Intermediate,6,Offline,3,7,High,No,4,10,0,Not Applicable,20,Kerala,India,May,Fail
+21,25,Female,Intermediate,12,Online,2,5,High,No,6,3,1,Not Applicable,40.1,Delhi,India,November,Pass
+22,29,Female,Intermediate,7,Online,5,5,High,No,6,17,0,Not Applicable,20,Karnataka,India,November,Fail
+23,23,Female,Final,4,Offline,5,5,High,No,9,3,0,Pursuing,20,Karnataka,India,May,Fail
+24,19,Female,Intermediate,6,Online,5,1,Medium,No,9,16,0,Not Applicable,35.3,Uttar Pradesh,India,November,Fail
+25,29,Female,Foundation,4,Offline,4,8,Medium,No,7,1,3,Not Applicable,20,West Bengal,India,May,Fail
+26,22,Female,Intermediate,4,Online,5,1,High,No,4,1,3,Not Applicable,26.4,Gujarat,India,May,Fail
+27,18,Male,Intermediate,6,Online,3,4,Low,No,7,11,4,Not Applicable,30,Maharashtra,India,May,Fail
+28,29,Female,Intermediate,8,Online,4,9,Medium,Yes,4,5,1,Not Applicable,20,Kerala,India,November,Fail
+29,27,Female,Intermediate,9,Self-Study,1,9,Medium,Yes,7,9,2,Not Applicable,21.9,Uttar Pradesh,India,November,Fail
+30,23,Female,Intermediate,12,Self-Study,5,5,Medium,No,5,20,2,Not Applicable,36.5,Andhra Pradesh,India,November,Pass
+31,29,Female,Intermediate,5,Self-Study,5,4,High,No,5,15,2,Not Applicable,20,Uttar Pradesh,India,May,Fail
+32,26,Female,Foundation,5,Offline,1,3,Low,No,8,13,0,Not Applicable,20.9,Andhra Pradesh,India,May,Fail
+33,18,Male,Foundation,12,Online,5,3,High,Yes,7,6,3,Not Applicable,46.1,Tamil Nadu,India,May,Pass
+34,28,Male,Foundation,8,Offline,1,5,Medium,Yes,9,18,1,Not Applicable,32.1,Telangana,India,November,Fail
+35,28,Male,Intermediate,5,Offline,4,10,High,No,6,16,0,Not Applicable,20.7,Delhi,India,May,Fail
+36,27,Male,Foundation,4,Self-Study,3,1,Low,Yes,8,8,3,Not Applicable,34.5,Telangana,India,May,Fail
+37,29,Male,Final,10,Online,1,5,Medium,No,9,12,3,Completed,51.8,Uttar Pradesh,India,November,Pass
+38,29,Female,Intermediate,7,Offline,2,6,High,No,5,4,5,Not Applicable,49.6,Telangana,India,May,Pass
+39,20,Male,Final,3,Online,1,7,High,Yes,7,4,5,Pursuing,20.7,Maharashtra,India,May,Fail
+40,29,Female,Final,5,Online,5,9,Medium,Yes,8,9,1,Pursuing,20,Tamil Nadu,India,November,Fail
+41,24,Male,Final,12,Offline,4,3,Medium,No,7,20,1,Completed,44.4,Gujarat,India,November,Pass
+42,21,Female,Final,10,Offline,4,2,Medium,No,5,9,1,Pursuing,55,Tamil Nadu,India,May,Pass
+43,26,Male,Intermediate,6,Online,1,3,Medium,No,8,6,0,Not Applicable,30.9,Kerala,India,November,Fail
+44,20,Male,Intermediate,9,Online,3,9,Medium,No,5,14,4,Not Applicable,30,Maharashtra,India,May,Fail
+45,22,Male,Foundation,12,Offline,2,7,Medium,Yes,4,6,1,Not Applicable,36.1,Telangana,India,November,Fail
+46,20,Female,Foundation,4,Offline,4,9,Medium,No,5,14,5,Not Applicable,20.8,Gujarat,India,May,Fail
+47,24,Male,Intermediate,9,Self-Study,5,2,Medium,No,7,2,4,Not Applicable,32.1,Telangana,India,November,Fail
+48,22,Female,Intermediate,7,Self-Study,5,5,High,Yes,6,18,0,Not Applicable,20,West Bengal,India,May,Fail
+49,26,Male,Foundation,7,Offline,3,4,High,No,5,9,4,Not Applicable,49.1,West Bengal,India,November,Pass
+50,24,Male,Intermediate,8,Online,4,2,High,No,9,14,2,Not Applicable,34.7,Karnataka,India,November,Fail
+51,19,Female,Final,11,Offline,1,9,Low,No,6,2,4,Completed,38.6,Tamil Nadu,India,November,Pass
+52,21,Male,Intermediate,8,Offline,5,9,Low,Yes,4,5,1,Not Applicable,20,Gujarat,India,November,Fail
+53,26,Male,Intermediate,10,Online,3,6,High,No,8,11,0,Not Applicable,42.6,West Bengal,India,November,Pass
+54,29,Female,Final,9,Self-Study,4,6,Medium,No,8,14,1,Pursuing,27.5,Karnataka,India,November,Fail
+55,19,Female,Final,11,Online,4,8,Low,No,6,5,5,Pursuing,32.6,Maharashtra,India,November,Fail
+56,27,Female,Intermediate,6,Self-Study,4,6,High,Yes,8,12,2,Not Applicable,23.8,Gujarat,India,May,Fail
+57,26,Male,Final,4,Offline,4,1,High,No,5,18,5,Completed,31.6,Karnataka,India,May,Fail
+58,27,Male,Final,9,Offline,4,4,High,No,6,2,1,Pursuing,33.9,Delhi,India,November,Fail
+59,22,Female,Final,8,Offline,5,7,Medium,No,7,7,1,Pursuing,20.5,Gujarat,India,November,Fail
+60,19,Female,Foundation,3,Self-Study,3,2,Low,No,5,7,1,Not Applicable,31.7,Uttar Pradesh,India,May,Fail
+61,21,Female,Intermediate,11,Offline,4,9,High,No,5,19,3,Not Applicable,31.4,Karnataka,India,May,Fail
+62,29,Male,Foundation,11,Offline,2,8,Medium,No,5,14,2,Not Applicable,45.8,Telangana,India,November,Pass
+63,29,Female,Foundation,4,Online,2,8,High,No,7,3,1,Not Applicable,26.5,Uttar Pradesh,India,May,Fail
+64,24,Female,Intermediate,5,Offline,3,7,High,No,4,18,1,Not Applicable,25,Delhi,India,May,Fail
+65,29,Male,Intermediate,7,Online,1,4,High,No,9,20,5,Not Applicable,40.9,West Bengal,India,November,Pass
+66,25,Male,Final,7,Offline,1,2,Medium,No,8,2,5,Pursuing,44.7,Andhra Pradesh,India,November,Pass
+67,20,Male,Foundation,3,Offline,1,3,Medium,No,6,12,1,Not Applicable,43.4,Karnataka,India,November,Pass
+68,18,Male,Final,10,Offline,2,6,High,No,4,7,0,Completed,34.8,Maharashtra,India,May,Fail
+69,21,Male,Intermediate,10,Online,1,5,High,No,6,15,3,Not Applicable,55.7,Karnataka,India,November,Pass
+70,19,Male,Intermediate,6,Online,5,8,High,Yes,8,12,5,Not Applicable,26.5,Andhra Pradesh,India,November,Fail
+71,25,Male,Final,9,Offline,4,6,Low,No,7,2,0,Completed,20,Delhi,India,May,Fail
+72,21,Male,Intermediate,12,Online,2,6,Medium,No,5,15,3,Not Applicable,34.3,Delhi,India,November,Fail
+73,19,Female,Foundation,5,Online,3,1,High,No,5,8,1,Not Applicable,38.1,Uttar Pradesh,India,May,Pass
+74,23,Female,Final,8,Online,3,4,High,No,7,13,2,Pursuing,47.3,Gujarat,India,May,Pass
+75,23,Male,Intermediate,12,Self-Study,4,5,High,No,4,12,4,Not Applicable,38.9,Maharashtra,India,May,Pass
+76,27,Female,Foundation,12,Offline,2,3,Medium,No,4,20,4,Not Applicable,56.3,Uttar Pradesh,India,May,Pass
+77,21,Female,Final,11,Online,1,9,High,No,6,6,1,Completed,33.3,Maharashtra,India,May,Fail
+78,23,Male,Foundation,3,Online,1,1,High,No,7,14,5,Not Applicable,51.6,Maharashtra,India,May,Pass
+79,19,Male,Intermediate,7,Online,5,6,High,No,4,6,0,Not Applicable,20,Andhra Pradesh,India,November,Fail
+80,27,Male,Intermediate,6,Offline,5,6,Medium,No,7,5,2,Not Applicable,25.8,Uttar Pradesh,India,November,Fail
+81,29,Male,Final,10,Offline,1,10,Low,No,8,1,3,Pursuing,31.9,Maharashtra,India,November,Fail
+82,19,Female,Foundation,3,Online,3,5,High,Yes,5,8,1,Not Applicable,20,Kerala,India,May,Fail
+83,27,Female,Final,11,Online,3,5,Medium,Yes,5,16,2,Pursuing,43.3,Andhra Pradesh,India,November,Pass
+84,21,Male,Intermediate,8,Online,5,10,Medium,No,5,4,2,Not Applicable,20.6,Delhi,India,May,Fail
+85,25,Female,Foundation,6,Offline,4,5,High,Yes,7,11,5,Not Applicable,26.7,Andhra Pradesh,India,November,Fail
+86,24,Female,Intermediate,11,Offline,1,6,Medium,No,7,0,3,Not Applicable,45.2,Telangana,India,May,Pass
+87,29,Male,Final,7,Online,5,8,High,No,6,9,2,Pursuing,33.5,Telangana,India,November,Fail
+88,26,Female,Intermediate,7,Online,5,2,Medium,No,5,10,5,Not Applicable,38.7,Maharashtra,India,May,Pass
+89,25,Female,Foundation,7,Online,1,6,High,No,6,15,0,Not Applicable,42.7,Uttar Pradesh,India,November,Pass
+90,22,Female,Intermediate,3,Self-Study,1,1,High,Yes,5,13,5,Not Applicable,41.5,Delhi,India,May,Pass
+91,19,Male,Intermediate,3,Online,3,4,Low,No,6,7,0,Not Applicable,20,Andhra Pradesh,India,November,Fail
+92,22,Female,Intermediate,10,Offline,4,10,Low,No,6,16,0,Not Applicable,20,Uttar Pradesh,India,May,Fail
+93,25,Male,Intermediate,10,Offline,4,3,Medium,No,8,17,2,Not Applicable,41.2,Andhra Pradesh,India,November,Pass
+94,27,Female,Intermediate,8,Online,1,9,Low,Yes,6,11,5,Not Applicable,34.4,Andhra Pradesh,India,November,Fail
+95,26,Female,Foundation,6,Online,2,3,High,No,7,16,0,Not Applicable,25.4,Kerala,India,November,Fail
+96,29,Female,Intermediate,4,Online,5,6,High,Yes,6,13,3,Not Applicable,20,Telangana,India,May,Fail
+97,29,Female,Intermediate,4,Offline,5,1,Medium,No,5,15,2,Not Applicable,37.7,Andhra Pradesh,India,May,Pass
+98,29,Female,Foundation,11,Offline,1,6,Medium,Yes,6,13,5,Not Applicable,44.3,Kerala,India,May,Pass
+99,26,Female,Final,7,Offline,2,4,Medium,Yes,4,8,5,Pursuing,31.6,Telangana,India,May,Fail
+100,18,Male,Intermediate,6,Offline,3,8,High,No,9,3,4,Not Applicable,29.3,Kerala,India,May,Fail
+101,26,Male,Intermediate,12,Online,1,9,Low,No,5,10,5,Not Applicable,45.7,Uttar Pradesh,India,November,Pass
+102,24,Male,Final,3,Self-Study,1,4,High,No,4,5,2,Pursuing,30.9,Gujarat,India,May,Fail
+103,26,Female,Intermediate,9,Offline,5,10,High,No,5,14,3,Not Applicable,24.5,Telangana,India,November,Fail
+104,25,Male,Final,5,Online,1,10,High,No,7,4,5,Pursuing,30.6,West Bengal,India,November,Fail
+105,18,Male,Intermediate,8,Self-Study,1,6,Medium,Yes,9,10,4,Not Applicable,40.3,Gujarat,India,May,Pass
+106,29,Male,Foundation,7,Offline,1,1,High,No,9,17,2,Not Applicable,44.2,Uttar Pradesh,India,November,Pass
+107,25,Female,Intermediate,7,Offline,5,4,Low,No,7,12,0,Not Applicable,21.5,Andhra Pradesh,India,May,Fail
+108,25,Female,Intermediate,7,Offline,3,7,Medium,No,9,10,1,Not Applicable,32.2,Delhi,India,May,Fail
+109,28,Female,Intermediate,3,Self-Study,3,1,High,Yes,7,13,1,Not Applicable,33.8,Uttar Pradesh,India,May,Fail
+110,20,Male,Foundation,3,Offline,1,8,High,No,4,17,0,Not Applicable,20,Kerala,India,November,Fail
+111,18,Female,Foundation,5,Online,5,10,Low,No,8,18,5,Not Applicable,23.7,Kerala,India,May,Fail
+112,25,Female,Foundation,12,Online,3,6,Medium,No,5,14,1,Not Applicable,32.7,Kerala,India,May,Fail
+113,20,Male,Foundation,6,Self-Study,3,5,Medium,Yes,7,8,1,Not Applicable,34,Kerala,India,May,Fail
+114,20,Female,Intermediate,7,Online,3,10,Medium,No,5,7,0,Not Applicable,20,Uttar Pradesh,India,November,Fail
+115,18,Male,Foundation,4,Online,5,9,Medium,Yes,4,19,5,Not Applicable,25.3,Delhi,India,May,Fail
+116,28,Male,Intermediate,10,Offline,5,2,Low,Yes,8,0,5,Not Applicable,38,Karnataka,India,November,Pass
+117,22,Female,Intermediate,4,Offline,1,5,Medium,No,4,3,0,Not Applicable,20,Kerala,India,November,Fail
+118,27,Male,Intermediate,11,Offline,4,6,High,Yes,9,13,5,Not Applicable,56.9,Karnataka,India,May,Pass
+119,24,Male,Final,4,Self-Study,3,7,High,No,5,1,5,Pursuing,31.6,Delhi,India,November,Fail
+120,27,Male,Intermediate,11,Online,4,5,High,Yes,8,15,2,Not Applicable,41.9,Delhi,India,November,Pass
+121,26,Male,Intermediate,9,Online,5,9,Low,No,9,2,2,Not Applicable,20,Gujarat,India,May,Fail
+122,29,Male,Intermediate,10,Online,5,1,High,No,8,7,0,Not Applicable,24.9,Telangana,India,May,Fail
+123,24,Female,Intermediate,4,Self-Study,5,7,High,No,9,5,3,Not Applicable,21.3,West Bengal,India,May,Fail
+124,26,Female,Final,9,Offline,4,10,High,No,4,15,1,Pursuing,22.1,Maharashtra,India,November,Fail
+125,25,Female,Foundation,8,Online,5,7,High,Yes,7,15,2,Not Applicable,30.6,West Bengal,India,May,Fail
+126,29,Female,Foundation,6,Self-Study,1,4,High,No,5,6,1,Not Applicable,39.7,Uttar Pradesh,India,November,Pass
+127,19,Female,Intermediate,9,Self-Study,5,9,High,No,6,12,4,Not Applicable,38.2,Maharashtra,India,November,Pass
+128,18,Female,Foundation,6,Self-Study,2,5,Medium,Yes,6,12,0,Not Applicable,28.4,Delhi,India,November,Fail
+129,24,Male,Final,4,Self-Study,4,4,High,No,4,4,3,Pursuing,20,West Bengal,India,November,Fail
+130,24,Male,Intermediate,12,Online,2,7,High,No,5,19,4,Not Applicable,36.9,Tamil Nadu,India,November,Pass
+131,25,Male,Final,9,Offline,5,4,High,Yes,5,17,4,Pursuing,33.5,Telangana,India,May,Fail
+132,22,Male,Intermediate,10,Offline,1,3,High,No,4,14,5,Not Applicable,67,West Bengal,India,May,Pass
+133,20,Male,Intermediate,4,Self-Study,3,9,Low,Yes,5,17,4,Not Applicable,33.1,Telangana,India,November,Fail
+134,29,Male,Final,7,Offline,5,8,Medium,Yes,7,1,0,Pursuing,20,Karnataka,India,November,Fail
+135,25,Female,Intermediate,3,Offline,1,1,High,No,4,9,2,Not Applicable,26.1,Uttar Pradesh,India,May,Fail
+136,23,Female,Final,9,Offline,4,7,High,No,7,12,0,Completed,22.9,Telangana,India,May,Fail
+137,28,Female,Foundation,10,Online,2,9,High,No,5,17,2,Not Applicable,45.5,Karnataka,India,November,Pass
+138,20,Male,Intermediate,8,Offline,2,8,Medium,No,4,14,4,Not Applicable,31.7,Kerala,India,November,Fail
+139,18,Male,Foundation,7,Self-Study,2,8,Medium,Yes,5,11,4,Not Applicable,35,Karnataka,India,May,Fail
+140,20,Female,Intermediate,8,Self-Study,4,6,High,No,4,14,3,Not Applicable,34.5,Uttar Pradesh,India,May,Fail
+141,22,Female,Foundation,4,Online,1,4,High,No,5,12,2,Not Applicable,39.8,Gujarat,India,November,Pass
+142,20,Male,Final,3,Online,4,8,High,No,7,17,4,Completed,37.4,Kerala,India,May,Pass
+143,18,Female,Final,9,Online,2,3,Medium,No,7,14,5,Pursuing,57,Delhi,India,May,Pass
+144,22,Male,Final,9,Offline,5,9,High,No,5,10,1,Completed,21.3,Andhra Pradesh,India,November,Fail
+145,27,Male,Foundation,12,Self-Study,3,2,Medium,No,4,18,3,Not Applicable,66.6,Karnataka,India,November,Pass
+146,24,Male,Intermediate,12,Online,4,2,High,No,6,2,0,Not Applicable,40.6,Karnataka,India,November,Pass
+147,24,Male,Intermediate,4,Offline,4,7,Medium,Yes,7,6,3,Not Applicable,20,Telangana,India,May,Fail
+148,28,Female,Foundation,4,Self-Study,1,10,Medium,Yes,7,20,1,Not Applicable,26.7,Delhi,India,November,Fail
+149,26,Female,Intermediate,3,Offline,1,4,High,Yes,9,13,2,Not Applicable,37.4,West Bengal,India,May,Pass
+150,27,Male,Intermediate,12,Offline,4,10,High,No,6,13,0,Not Applicable,25.5,Tamil Nadu,India,November,Fail
+151,27,Female,Intermediate,10,Offline,2,8,Low,No,5,12,0,Not Applicable,24.4,Maharashtra,India,November,Fail
+152,29,Female,Intermediate,10,Offline,3,9,High,No,4,11,2,Not Applicable,28.6,Karnataka,India,May,Fail
+153,20,Female,Intermediate,3,Online,1,7,Medium,No,9,8,3,Not Applicable,24.6,West Bengal,India,May,Fail
+154,24,Male,Foundation,10,Offline,2,5,Medium,No,5,0,4,Not Applicable,38.1,Tamil Nadu,India,November,Pass
+155,18,Male,Foundation,11,Offline,5,8,Low,No,8,18,3,Not Applicable,28.2,Maharashtra,India,November,Fail
+156,21,Male,Foundation,6,Self-Study,1,4,Medium,Yes,7,10,1,Not Applicable,36,Andhra Pradesh,India,May,Fail
+157,21,Male,Final,3,Offline,2,2,High,Yes,8,18,5,Pursuing,46.7,Telangana,India,November,Pass
+158,22,Male,Foundation,3,Offline,2,6,Low,No,7,17,4,Not Applicable,33.1,West Bengal,India,May,Fail
+159,24,Female,Foundation,5,Online,3,9,Medium,No,7,11,3,Not Applicable,22.2,Telangana,India,May,Fail
+160,24,Male,Foundation,7,Offline,3,1,High,No,8,0,5,Not Applicable,44.1,Maharashtra,India,November,Pass
+161,28,Male,Final,7,Online,5,10,Low,Yes,8,18,5,Pursuing,34.4,Gujarat,India,May,Fail
+162,21,Male,Final,11,Online,2,7,High,Yes,5,19,2,Completed,43.2,Karnataka,India,May,Pass
+163,24,Male,Intermediate,12,Offline,2,10,Medium,No,9,16,1,Not Applicable,46.9,Kerala,India,May,Pass
+164,28,Male,Intermediate,4,Self-Study,3,9,High,Yes,9,4,1,Not Applicable,20,Tamil Nadu,India,November,Fail
+165,20,Male,Intermediate,4,Online,1,10,Medium,Yes,8,2,1,Not Applicable,20,Delhi,India,May,Fail
+166,23,Male,Foundation,8,Offline,1,9,Medium,No,5,1,4,Not Applicable,26,Uttar Pradesh,India,November,Fail
+167,29,Male,Final,11,Self-Study,4,10,Medium,Yes,9,2,0,Pursuing,20,Karnataka,India,November,Fail
+168,19,Male,Intermediate,3,Online,3,3,Low,No,5,7,4,Not Applicable,24.2,Kerala,India,November,Fail
+169,27,Female,Intermediate,11,Offline,4,5,Medium,No,5,15,3,Not Applicable,37.9,Uttar Pradesh,India,May,Pass
+170,26,Male,Intermediate,11,Offline,3,8,High,Yes,7,5,5,Not Applicable,36.5,West Bengal,India,May,Pass
+171,22,Male,Intermediate,11,Offline,5,8,High,No,9,12,5,Not Applicable,49.4,Uttar Pradesh,India,November,Pass
+172,23,Male,Intermediate,7,Online,2,4,High,No,9,15,0,Not Applicable,38.4,Andhra Pradesh,India,November,Pass
+173,29,Female,Final,11,Online,5,1,High,No,7,15,3,Completed,51.4,Karnataka,India,May,Pass
+174,29,Male,Final,6,Offline,3,1,Low,No,8,2,0,Pursuing,24.4,Telangana,India,November,Fail
+175,29,Female,Intermediate,4,Offline,2,4,Medium,Yes,7,12,5,Not Applicable,42.9,Gujarat,India,November,Pass
+176,29,Female,Intermediate,8,Online,1,6,Medium,No,9,13,4,Not Applicable,48.8,Delhi,India,May,Pass
+177,21,Male,Foundation,6,Offline,1,8,Medium,Yes,9,7,1,Not Applicable,23.2,Telangana,India,November,Fail
+178,28,Female,Intermediate,8,Online,4,6,High,No,8,11,5,Not Applicable,28.9,Kerala,India,May,Fail
+179,27,Female,Foundation,5,Offline,3,9,High,No,7,20,2,Not Applicable,28.1,Karnataka,India,May,Fail
+180,24,Male,Intermediate,8,Online,3,9,Medium,No,4,7,1,Not Applicable,23.8,Gujarat,India,November,Fail
+181,29,Male,Final,4,Self-Study,1,2,Medium,No,4,20,5,Completed,40.6,Uttar Pradesh,India,May,Pass
+182,26,Female,Intermediate,4,Online,5,10,High,Yes,8,8,4,Not Applicable,20,Karnataka,India,May,Fail
+183,24,Male,Intermediate,11,Online,2,1,High,Yes,7,0,0,Not Applicable,45.6,Uttar Pradesh,India,May,Pass
+184,18,Female,Foundation,9,Online,5,2,Medium,No,7,5,1,Not Applicable,20.4,West Bengal,India,November,Fail
+185,18,Male,Foundation,5,Online,5,5,High,No,5,18,4,Not Applicable,26.5,Andhra Pradesh,India,November,Fail
+186,26,Female,Intermediate,3,Self-Study,1,4,High,No,9,10,3,Not Applicable,39.9,Maharashtra,India,November,Pass
+187,28,Male,Foundation,10,Self-Study,1,4,Medium,Yes,6,10,2,Not Applicable,51.5,Karnataka,India,May,Pass
+188,26,Female,Foundation,8,Online,1,9,Medium,No,8,12,1,Not Applicable,46.8,Kerala,India,May,Pass
+189,21,Female,Intermediate,9,Offline,4,8,High,Yes,6,10,0,Not Applicable,35.3,Uttar Pradesh,India,November,Fail
+190,26,Male,Intermediate,11,Offline,5,6,High,No,6,17,3,Not Applicable,41,Telangana,India,November,Pass
+191,20,Male,Intermediate,7,Self-Study,3,1,High,No,8,14,4,Not Applicable,46.4,West Bengal,India,May,Pass
+192,24,Male,Foundation,3,Offline,2,2,Low,No,7,0,2,Not Applicable,31.7,Kerala,India,November,Fail
+193,23,Male,Intermediate,12,Online,4,6,Medium,No,8,20,0,Not Applicable,35,Delhi,India,November,Fail
+194,25,Male,Intermediate,9,Offline,3,2,High,No,6,6,4,Not Applicable,41.3,Maharashtra,India,November,Pass
+195,28,Female,Intermediate,7,Offline,5,10,High,No,9,12,4,Not Applicable,23.5,West Bengal,India,November,Fail
+196,26,Male,Intermediate,5,Online,1,5,Medium,No,9,11,1,Not Applicable,30.2,Andhra Pradesh,India,November,Fail
+197,22,Female,Intermediate,11,Offline,5,5,High,No,9,17,1,Not Applicable,42.3,Maharashtra,India,May,Pass
+198,18,Female,Intermediate,3,Online,2,6,High,No,7,18,0,Not Applicable,21,Uttar Pradesh,India,November,Fail
+199,20,Female,Intermediate,3,Offline,4,6,High,No,4,14,5,Not Applicable,27.9,Kerala,India,November,Fail
+200,27,Female,Final,3,Online,4,6,High,No,8,7,5,Pursuing,38.2,Delhi,India,May,Pass
+201,29,Female,Intermediate,5,Offline,2,2,High,No,9,18,4,Not Applicable,50.1,Tamil Nadu,India,May,Pass
+202,25,Male,Intermediate,8,Offline,3,10,Medium,No,8,9,1,Not Applicable,32.6,Andhra Pradesh,India,May,Fail
+203,28,Male,Intermediate,12,Offline,3,3,High,No,9,6,2,Not Applicable,57,Gujarat,India,May,Pass
+204,23,Male,Intermediate,5,Online,4,6,Medium,Yes,7,17,2,Not Applicable,28.2,Uttar Pradesh,India,November,Fail
+205,25,Male,Final,10,Offline,4,8,High,No,4,15,4,Pursuing,34.2,Tamil Nadu,India,November,Fail
+206,26,Male,Intermediate,12,Offline,1,1,Medium,No,4,19,1,Not Applicable,63.9,Karnataka,India,November,Pass
+207,21,Male,Intermediate,4,Offline,3,1,High,No,9,5,0,Not Applicable,27.8,Delhi,India,November,Fail
+208,18,Female,Intermediate,11,Offline,2,2,Medium,No,7,8,0,Not Applicable,43.8,Telangana,India,May,Pass
+209,18,Female,Intermediate,5,Offline,3,6,Low,No,5,20,0,Not Applicable,24.3,Gujarat,India,May,Fail
+210,27,Male,Intermediate,7,Self-Study,1,9,Medium,No,8,12,2,Not Applicable,31.8,Kerala,India,November,Fail
+211,21,Male,Final,12,Online,4,4,Low,Yes,8,20,1,Pursuing,36.3,Delhi,India,November,Fail
+212,29,Male,Intermediate,10,Self-Study,4,3,High,No,6,7,1,Not Applicable,26.1,Maharashtra,India,November,Fail
+213,24,Male,Intermediate,4,Offline,1,8,High,No,7,15,2,Not Applicable,36.6,West Bengal,India,November,Pass
+214,19,Male,Final,8,Online,2,10,High,No,6,12,0,Pursuing,28.4,Maharashtra,India,May,Fail
+215,20,Female,Foundation,7,Online,4,9,Medium,No,9,12,0,Not Applicable,20,Maharashtra,India,November,Fail
+216,18,Male,Foundation,12,Online,5,5,Low,No,6,16,4,Not Applicable,37,Karnataka,India,May,Pass
+217,22,Female,Intermediate,11,Offline,4,9,Low,Yes,4,19,5,Not Applicable,36.7,Andhra Pradesh,India,May,Pass
+218,18,Female,Final,7,Offline,5,2,Medium,No,8,4,3,Pursuing,35.4,Telangana,India,May,Fail
+219,25,Male,Foundation,4,Offline,1,3,High,No,6,20,5,Not Applicable,38.5,Gujarat,India,May,Pass
+220,18,Female,Foundation,7,Offline,1,7,Medium,Yes,4,16,1,Not Applicable,29.5,Andhra Pradesh,India,November,Fail
+221,28,Female,Foundation,6,Offline,4,7,Medium,Yes,7,8,1,Not Applicable,21.1,Delhi,India,November,Fail
+222,18,Male,Foundation,9,Online,3,6,Low,Yes,6,1,1,Not Applicable,20.1,Maharashtra,India,November,Fail
+223,19,Male,Foundation,8,Online,5,6,Medium,No,9,17,5,Not Applicable,40.6,Karnataka,India,November,Pass
+224,19,Female,Intermediate,4,Offline,2,2,High,Yes,9,8,3,Not Applicable,34.1,Delhi,India,May,Fail
+225,29,Female,Intermediate,7,Online,4,10,High,No,9,5,4,Not Applicable,31.5,West Bengal,India,May,Fail
+226,23,Female,Foundation,9,Online,2,6,Medium,No,8,10,5,Not Applicable,40.1,Telangana,India,May,Pass
+227,24,Female,Intermediate,9,Offline,4,4,Low,No,6,5,3,Not Applicable,24.6,Gujarat,India,November,Fail
+228,22,Female,Foundation,7,Offline,3,3,Medium,Yes,7,5,0,Not Applicable,26.7,West Bengal,India,May,Fail
+229,18,Female,Foundation,11,Self-Study,3,2,Medium,No,6,12,0,Not Applicable,32,Karnataka,India,May,Fail
+230,18,Female,Intermediate,6,Self-Study,3,1,Medium,No,8,10,1,Not Applicable,21.4,Telangana,India,May,Fail
+231,20,Female,Intermediate,5,Offline,3,5,High,No,4,13,2,Not Applicable,36.3,Delhi,India,May,Fail
+232,19,Female,Foundation,6,Offline,1,2,High,No,8,1,1,Not Applicable,30.7,Maharashtra,India,November,Fail
+233,22,Male,Intermediate,7,Offline,1,2,High,No,9,7,2,Not Applicable,36.8,Maharashtra,India,May,Pass
+234,29,Female,Foundation,8,Offline,5,7,Medium,No,4,2,3,Not Applicable,20,Uttar Pradesh,India,May,Fail
+235,27,Male,Final,5,Online,2,8,Medium,No,9,20,0,Completed,20.2,Maharashtra,India,November,Fail
+236,23,Male,Intermediate,4,Offline,4,10,High,No,5,2,5,Not Applicable,20,Tamil Nadu,India,November,Fail
+237,24,Female,Intermediate,6,Self-Study,4,8,High,Yes,8,0,2,Not Applicable,20,Maharashtra,India,November,Fail
+238,21,Male,Foundation,7,Online,1,4,High,Yes,8,18,3,Not Applicable,50.8,Tamil Nadu,India,May,Pass
+239,24,Male,Final,6,Offline,4,1,Medium,Yes,7,17,0,Pursuing,35.8,Kerala,India,May,Fail
+240,28,Female,Foundation,5,Offline,1,7,High,No,6,16,5,Not Applicable,32.4,Tamil Nadu,India,May,Fail
+241,25,Female,Foundation,10,Online,5,1,Medium,No,4,19,2,Not Applicable,38.4,Telangana,India,May,Pass
+242,28,Male,Intermediate,12,Online,2,4,High,No,4,12,1,Not Applicable,42.4,West Bengal,India,November,Pass
+243,18,Female,Foundation,6,Online,5,8,High,No,7,2,1,Not Applicable,20,Telangana,India,May,Fail
+244,23,Female,Final,4,Online,3,2,High,No,7,0,1,Pursuing,33.5,West Bengal,India,May,Fail
+245,25,Male,Intermediate,4,Online,3,6,Low,No,6,3,3,Not Applicable,27.6,Uttar Pradesh,India,November,Fail
+246,22,Male,Foundation,3,Self-Study,3,6,High,No,9,12,1,Not Applicable,40.8,Kerala,India,November,Pass
+247,21,Female,Intermediate,6,Online,5,9,Low,No,6,16,4,Not Applicable,20,West Bengal,India,November,Fail
+248,19,Male,Final,12,Offline,4,5,Medium,No,8,10,0,Pursuing,29.3,West Bengal,India,May,Fail
+249,23,Male,Final,11,Online,2,10,Low,Yes,9,1,3,Pursuing,42.1,Karnataka,India,May,Pass
+250,23,Female,Intermediate,9,Self-Study,3,4,High,Yes,5,15,5,Not Applicable,34.2,Andhra Pradesh,India,May,Fail
+251,28,Male,Final,12,Online,3,5,Medium,No,6,1,1,Completed,47.7,Andhra Pradesh,India,May,Pass
+252,18,Male,Final,9,Offline,3,10,Medium,No,7,18,0,Pursuing,26.4,Karnataka,India,May,Fail
+253,26,Male,Intermediate,9,Self-Study,2,5,High,No,9,18,2,Not Applicable,48.3,Maharashtra,India,November,Pass
+254,29,Female,Foundation,10,Self-Study,3,8,Medium,Yes,6,15,1,Not Applicable,20.8,Karnataka,India,November,Fail
+255,28,Male,Intermediate,3,Online,2,10,High,No,4,18,0,Not Applicable,20,West Bengal,India,May,Fail
+256,23,Female,Final,12,Self-Study,3,8,Medium,No,5,8,4,Pursuing,51.6,West Bengal,India,May,Pass
+257,20,Male,Foundation,12,Offline,5,2,Low,No,8,0,2,Not Applicable,36.5,Karnataka,India,May,Pass
+258,21,Female,Final,10,Offline,5,7,High,No,4,9,4,Pursuing,29.6,Karnataka,India,May,Fail
+259,29,Male,Foundation,6,Online,2,8,Low,No,4,18,5,Not Applicable,36.7,Maharashtra,India,May,Pass
+260,28,Female,Foundation,6,Online,5,6,Medium,No,5,0,0,Not Applicable,20,Telangana,India,November,Fail
+261,21,Male,Intermediate,6,Offline,2,5,High,No,8,1,4,Not Applicable,38.5,Kerala,India,November,Pass
+262,20,Female,Foundation,8,Offline,5,9,High,Yes,7,15,5,Not Applicable,24.3,Delhi,India,November,Fail
+263,27,Female,Final,9,Offline,5,3,High,Yes,9,11,0,Pursuing,31,West Bengal,India,May,Fail
+264,20,Male,Final,8,Offline,2,10,Medium,No,8,7,0,Completed,20,Kerala,India,May,Fail
+265,20,Female,Final,3,Offline,4,4,Low,No,6,17,4,Pursuing,20,Karnataka,India,November,Fail
+266,21,Male,Intermediate,10,Online,5,9,High,No,4,1,0,Not Applicable,20,Maharashtra,India,November,Fail
+267,24,Male,Foundation,12,Offline,3,6,High,No,6,12,1,Not Applicable,32.1,Tamil Nadu,India,May,Fail
+268,21,Male,Intermediate,9,Online,4,8,High,No,7,5,0,Not Applicable,20.7,Maharashtra,India,November,Fail
+269,26,Male,Intermediate,8,Offline,2,7,High,No,6,20,3,Not Applicable,48.4,Gujarat,India,November,Pass
+270,18,Male,Intermediate,8,Offline,4,2,High,No,8,5,5,Not Applicable,34.5,Gujarat,India,May,Fail
+271,25,Male,Foundation,7,Self-Study,1,3,Medium,No,6,8,0,Not Applicable,39.4,Kerala,India,November,Pass
+272,24,Female,Intermediate,8,Online,1,1,Medium,No,7,15,3,Not Applicable,51.1,Andhra Pradesh,India,November,Pass
+273,19,Male,Intermediate,11,Online,5,9,High,No,7,10,0,Not Applicable,20,Gujarat,India,November,Fail
+274,25,Male,Final,12,Online,5,7,Medium,No,7,6,0,Pursuing,40.2,Gujarat,India,May,Pass
+275,18,Male,Final,11,Online,3,1,Medium,No,8,9,4,Completed,54.1,Telangana,India,November,Pass
+276,28,Male,Intermediate,12,Online,4,3,High,Yes,7,9,1,Not Applicable,37,Tamil Nadu,India,November,Pass
+277,29,Male,Intermediate,10,Self-Study,1,4,High,No,4,19,5,Not Applicable,52.7,Telangana,India,November,Pass
+278,26,Female,Intermediate,12,Online,5,4,Medium,No,7,17,1,Not Applicable,46.2,Tamil Nadu,India,May,Pass
+279,26,Male,Foundation,11,Online,4,5,Low,Yes,6,19,2,Not Applicable,33.2,Uttar Pradesh,India,May,Fail
+280,19,Male,Final,12,Offline,5,3,Medium,No,9,8,4,Completed,51.9,Delhi,India,November,Pass
+281,24,Male,Final,10,Offline,5,3,High,No,6,14,4,Pursuing,44.8,West Bengal,India,May,Pass
+282,27,Male,Intermediate,10,Offline,1,1,High,Yes,9,3,1,Not Applicable,56,Gujarat,India,November,Pass
+283,20,Female,Intermediate,3,Online,1,7,Medium,No,6,7,4,Not Applicable,20.6,West Bengal,India,May,Fail
+284,24,Male,Foundation,12,Offline,5,10,Low,Yes,8,8,1,Not Applicable,20,Gujarat,India,May,Fail
+285,29,Female,Intermediate,7,Online,2,1,High,Yes,6,12,4,Not Applicable,46.2,Telangana,India,November,Pass
+286,27,Female,Foundation,6,Online,5,2,Medium,No,8,8,0,Not Applicable,23.2,Delhi,India,November,Fail
+287,26,Male,Final,4,Self-Study,5,4,High,No,8,3,1,Pursuing,20,Telangana,India,November,Fail
+288,21,Female,Foundation,10,Online,3,4,High,Yes,7,16,1,Not Applicable,59.5,Telangana,India,May,Pass
+289,29,Male,Foundation,5,Offline,3,5,Low,No,4,15,3,Not Applicable,42.6,Tamil Nadu,India,November,Pass
+290,18,Female,Final,6,Offline,3,2,High,No,9,14,4,Pursuing,48.5,Andhra Pradesh,India,May,Pass
+291,19,Male,Intermediate,9,Online,2,4,Low,Yes,7,2,4,Not Applicable,41.3,Maharashtra,India,May,Pass
+292,18,Female,Foundation,12,Self-Study,2,1,Medium,Yes,7,19,1,Not Applicable,52.3,Kerala,India,November,Pass
+293,29,Male,Foundation,11,Online,5,2,High,No,8,4,0,Not Applicable,28.3,West Bengal,India,May,Fail
+294,22,Male,Foundation,4,Offline,3,1,Medium,No,8,4,0,Not Applicable,24.9,Uttar Pradesh,India,November,Fail
+295,22,Male,Intermediate,5,Self-Study,2,10,High,No,9,19,5,Not Applicable,41.6,Gujarat,India,May,Pass
+296,28,Female,Foundation,6,Offline,1,10,High,No,6,14,0,Not Applicable,33.1,Telangana,India,November,Fail
+297,24,Female,Intermediate,12,Self-Study,5,4,Medium,No,6,17,4,Not Applicable,53.7,Andhra Pradesh,India,May,Pass
+298,26,Female,Final,3,Online,4,4,Medium,No,7,14,3,Pursuing,20,Telangana,India,May,Fail
+299,26,Male,Foundation,9,Offline,5,7,Medium,No,5,1,1,Not Applicable,20,Delhi,India,November,Fail
+300,20,Female,Final,4,Online,4,10,Medium,No,5,12,2,Completed,20,Tamil Nadu,India,May,Fail
+301,20,Male,Final,7,Offline,3,9,Low,No,6,3,3,Pursuing,28.4,Uttar Pradesh,India,November,Fail
+302,20,Male,Foundation,3,Self-Study,4,9,Medium,Yes,5,9,2,Not Applicable,20,Maharashtra,India,May,Fail
+303,21,Male,Final,5,Online,3,5,Medium,Yes,6,12,3,Pursuing,28,Delhi,India,May,Fail
+304,25,Female,Intermediate,4,Offline,1,10,High,No,8,9,0,Not Applicable,22.1,Karnataka,India,May,Fail
+305,23,Male,Final,3,Online,4,1,High,No,7,8,4,Pursuing,53.6,Uttar Pradesh,India,November,Pass
+306,25,Female,Intermediate,9,Offline,5,1,High,Yes,4,7,2,Not Applicable,36.4,Telangana,India,November,Fail
+307,18,Female,Intermediate,7,Offline,3,6,Low,No,7,2,3,Not Applicable,24.8,Delhi,India,November,Fail
+308,25,Male,Intermediate,3,Self-Study,5,2,Medium,No,6,15,4,Not Applicable,21.2,Maharashtra,India,November,Fail
+309,21,Male,Final,8,Offline,2,8,High,No,6,13,2,Pursuing,44.1,Andhra Pradesh,India,November,Pass
+310,28,Male,Intermediate,7,Online,3,9,Medium,No,7,8,1,Not Applicable,20,Andhra Pradesh,India,May,Fail
+311,18,Male,Intermediate,5,Online,4,4,Low,No,9,20,3,Not Applicable,45.3,West Bengal,India,May,Pass
+312,25,Male,Final,9,Online,3,5,High,No,6,10,1,Pursuing,42.8,Maharashtra,India,November,Pass
+313,21,Male,Foundation,12,Online,5,8,High,No,5,2,0,Not Applicable,20,Andhra Pradesh,India,May,Fail
+314,23,Female,Foundation,11,Online,1,3,High,No,5,4,1,Not Applicable,36,Delhi,India,May,Fail
+315,25,Male,Foundation,11,Self-Study,3,5,Low,No,6,9,1,Not Applicable,36.9,West Bengal,India,May,Pass
+316,21,Female,Foundation,11,Offline,4,3,High,No,6,12,5,Not Applicable,47.2,Andhra Pradesh,India,May,Pass
+317,20,Female,Foundation,4,Offline,2,10,High,No,9,3,3,Not Applicable,21.3,Uttar Pradesh,India,November,Fail
+318,26,Female,Final,5,Online,1,3,High,Yes,5,12,0,Pursuing,39.3,Tamil Nadu,India,May,Pass
+319,20,Female,Foundation,9,Self-Study,2,3,High,Yes,6,11,1,Not Applicable,29,Karnataka,India,November,Fail
+320,26,Female,Intermediate,7,Offline,3,7,High,No,6,4,4,Not Applicable,33.1,Maharashtra,India,November,Fail
+321,19,Male,Foundation,4,Online,5,7,High,No,9,9,2,Not Applicable,23.8,Delhi,India,May,Fail
+322,19,Male,Final,5,Offline,5,7,Low,No,9,8,1,Pursuing,20,Gujarat,India,November,Fail
+323,19,Female,Final,12,Offline,4,10,High,Yes,7,19,0,Pursuing,20,Telangana,India,May,Fail
+324,23,Female,Intermediate,8,Online,5,8,High,No,9,6,1,Not Applicable,24.2,Delhi,India,May,Fail
+325,20,Male,Final,9,Offline,1,5,High,No,4,1,2,Pursuing,45.9,Andhra Pradesh,India,May,Pass
+326,26,Male,Foundation,11,Offline,5,5,Medium,No,5,6,0,Not Applicable,28.6,Delhi,India,November,Fail
+327,21,Male,Final,3,Online,4,4,Medium,No,7,7,3,Pursuing,22.4,Gujarat,India,November,Fail
+328,18,Female,Foundation,9,Self-Study,3,7,High,No,4,6,0,Not Applicable,33,Telangana,India,November,Fail
+329,21,Male,Final,10,Self-Study,3,10,High,No,6,20,3,Pursuing,32.4,West Bengal,India,May,Fail
+330,18,Male,Foundation,5,Offline,5,4,High,No,6,13,0,Not Applicable,20,Andhra Pradesh,India,May,Fail
+331,22,Male,Intermediate,6,Offline,2,2,High,Yes,7,18,2,Not Applicable,41.4,Kerala,India,May,Pass
+332,21,Male,Intermediate,12,Offline,3,4,High,No,9,4,2,Not Applicable,49.3,Andhra Pradesh,India,November,Pass
+333,25,Female,Foundation,8,Offline,5,8,High,No,6,17,0,Not Applicable,29.2,Karnataka,India,May,Fail
+334,25,Male,Foundation,12,Offline,4,9,High,No,8,19,1,Not Applicable,40.5,Kerala,India,May,Pass
+335,24,Female,Foundation,9,Online,5,3,High,Yes,7,11,2,Not Applicable,40.8,Karnataka,India,November,Pass
+336,20,Male,Foundation,6,Offline,3,7,High,No,4,16,3,Not Applicable,38.2,Gujarat,India,November,Pass
+337,18,Female,Intermediate,10,Self-Study,4,9,Medium,No,7,12,3,Not Applicable,28.7,Maharashtra,India,November,Fail
+338,18,Male,Foundation,7,Offline,5,4,Medium,Yes,5,1,4,Not Applicable,23.9,Telangana,India,May,Fail
+339,29,Male,Intermediate,3,Online,1,10,High,No,9,12,5,Not Applicable,40.3,Tamil Nadu,India,May,Pass
+340,28,Female,Foundation,6,Offline,4,3,Medium,No,9,6,5,Not Applicable,29.4,West Bengal,India,May,Fail
+341,20,Female,Final,5,Online,1,5,Medium,No,7,9,5,Pursuing,43.6,Tamil Nadu,India,November,Pass
+342,23,Female,Foundation,11,Online,2,1,Medium,No,6,5,3,Not Applicable,46,Uttar Pradesh,India,November,Pass
+343,24,Female,Foundation,10,Online,4,3,Medium,Yes,6,2,4,Not Applicable,45.5,Uttar Pradesh,India,November,Pass
+344,23,Female,Foundation,3,Online,1,8,Medium,No,8,2,5,Not Applicable,27.4,Gujarat,India,November,Fail
+345,23,Male,Intermediate,8,Offline,3,8,Medium,Yes,8,17,5,Not Applicable,38.1,Maharashtra,India,May,Pass
+346,23,Female,Final,11,Offline,3,4,High,No,9,10,0,Pursuing,53.5,Uttar Pradesh,India,May,Pass
+347,20,Male,Intermediate,9,Online,2,2,High,No,8,19,0,Not Applicable,40.2,Andhra Pradesh,India,May,Pass
+348,23,Female,Foundation,6,Self-Study,4,8,Medium,No,4,4,0,Not Applicable,20,Delhi,India,May,Fail
+349,25,Female,Intermediate,3,Self-Study,4,8,Low,Yes,8,18,1,Not Applicable,20,Karnataka,India,May,Fail
+350,28,Female,Intermediate,4,Self-Study,4,10,High,No,4,18,5,Not Applicable,27.2,Uttar Pradesh,India,May,Fail
+351,28,Male,Foundation,7,Online,2,4,Medium,No,8,14,1,Not Applicable,50.8,Gujarat,India,May,Pass
+352,19,Male,Intermediate,7,Offline,4,3,High,No,9,15,4,Not Applicable,39.9,Karnataka,India,May,Pass
+353,22,Female,Final,10,Self-Study,3,2,High,No,9,8,3,Pursuing,41.3,Andhra Pradesh,India,November,Pass
+354,18,Male,Foundation,8,Offline,1,9,High,No,4,3,5,Not Applicable,30.1,Maharashtra,India,November,Fail
+355,29,Female,Intermediate,10,Online,3,1,Medium,No,7,14,3,Not Applicable,49.5,Telangana,India,May,Pass
+356,18,Female,Intermediate,4,Online,3,7,High,No,9,11,0,Not Applicable,20.9,Tamil Nadu,India,November,Fail
+357,22,Male,Intermediate,5,Offline,1,5,Medium,No,7,2,5,Not Applicable,37.9,Andhra Pradesh,India,May,Pass
+358,29,Female,Foundation,8,Self-Study,3,8,High,Yes,6,13,2,Not Applicable,41.5,West Bengal,India,May,Pass
+359,20,Male,Foundation,12,Offline,2,4,High,No,4,16,1,Not Applicable,59.5,Kerala,India,November,Pass
+360,21,Female,Final,5,Offline,1,7,Medium,No,9,18,1,Pursuing,41.8,Gujarat,India,May,Pass
+361,20,Female,Final,8,Online,3,5,Medium,No,5,5,5,Pursuing,55.2,Tamil Nadu,India,May,Pass
+362,18,Male,Intermediate,8,Offline,5,5,Medium,No,6,3,0,Not Applicable,24.7,West Bengal,India,May,Fail
+363,18,Male,Intermediate,4,Self-Study,3,9,High,Yes,7,6,1,Not Applicable,20.7,Telangana,India,May,Fail
+364,29,Female,Intermediate,9,Online,2,9,Medium,No,9,18,0,Not Applicable,37.6,West Bengal,India,May,Pass
+365,29,Male,Intermediate,4,Offline,4,9,High,Yes,4,16,4,Not Applicable,24.5,Maharashtra,India,May,Fail
+366,22,Female,Intermediate,8,Self-Study,3,6,Medium,Yes,8,15,3,Not Applicable,38.8,Kerala,India,May,Pass
+367,23,Male,Foundation,3,Online,4,6,High,No,5,14,2,Not Applicable,20,Karnataka,India,November,Fail
+368,20,Male,Final,5,Offline,5,5,High,Yes,7,7,3,Completed,20,Tamil Nadu,India,November,Fail
+369,29,Male,Intermediate,4,Online,3,9,High,No,6,18,3,Not Applicable,24.2,Kerala,India,May,Fail
+370,26,Male,Final,9,Offline,1,10,High,Yes,4,7,4,Completed,37.5,Delhi,India,November,Pass
+371,22,Male,Foundation,6,Offline,4,8,Medium,No,5,17,1,Not Applicable,20.7,Andhra Pradesh,India,May,Fail
+372,25,Female,Foundation,10,Offline,5,7,Low,No,4,15,2,Not Applicable,20,Delhi,India,May,Fail
+373,18,Male,Foundation,8,Offline,1,7,High,Yes,9,19,1,Not Applicable,38.6,Andhra Pradesh,India,May,Pass
+374,22,Male,Intermediate,12,Online,1,6,Medium,No,8,18,5,Not Applicable,57.8,Maharashtra,India,May,Pass
+375,20,Male,Final,6,Self-Study,1,5,Medium,No,6,9,3,Pursuing,36.6,Kerala,India,November,Pass
+376,29,Male,Foundation,7,Offline,1,4,Low,No,4,16,5,Not Applicable,49.5,Telangana,India,November,Pass
+377,18,Male,Final,11,Online,3,3,Medium,Yes,7,12,0,Pursuing,43.7,Uttar Pradesh,India,November,Pass
+378,21,Female,Intermediate,9,Offline,3,3,Low,No,9,12,3,Not Applicable,40,West Bengal,India,November,Pass
+379,22,Female,Final,12,Offline,3,6,High,No,9,6,1,Completed,47,Uttar Pradesh,India,May,Pass
+380,24,Male,Foundation,11,Online,5,4,Medium,No,6,9,3,Not Applicable,45.9,Kerala,India,November,Pass
+381,18,Female,Final,9,Self-Study,5,6,High,No,9,1,0,Pursuing,24.7,Delhi,India,May,Fail
+382,20,Female,Intermediate,3,Self-Study,5,3,Low,No,7,3,4,Not Applicable,25.4,Uttar Pradesh,India,May,Fail
+383,19,Male,Foundation,10,Online,2,4,High,No,4,5,5,Not Applicable,55.1,Gujarat,India,November,Pass
+384,26,Female,Foundation,6,Self-Study,5,9,Medium,No,6,17,5,Not Applicable,20,Uttar Pradesh,India,May,Fail
+385,27,Female,Final,5,Online,3,5,High,No,9,5,1,Pursuing,33.6,Andhra Pradesh,India,November,Fail
+386,23,Male,Final,9,Online,3,7,High,No,9,16,3,Pursuing,36,Gujarat,India,November,Fail
+387,27,Male,Foundation,5,Online,2,10,Medium,No,7,13,1,Not Applicable,20,Tamil Nadu,India,November,Fail
+388,20,Female,Intermediate,10,Self-Study,2,2,High,No,8,10,4,Not Applicable,56.8,Uttar Pradesh,India,November,Pass
+389,25,Female,Final,8,Offline,5,5,High,No,8,18,3,Completed,22.5,Gujarat,India,November,Fail
+390,25,Male,Final,7,Online,4,9,High,Yes,9,1,3,Pursuing,21.8,Kerala,India,May,Fail
+391,19,Female,Final,6,Offline,2,3,High,No,4,2,1,Pursuing,36.8,West Bengal,India,November,Pass
+392,23,Female,Intermediate,10,Offline,1,9,Medium,No,6,10,1,Not Applicable,21.8,Tamil Nadu,India,November,Fail
+393,24,Female,Intermediate,10,Online,3,6,High,No,9,5,0,Not Applicable,40.3,Telangana,India,May,Pass
+394,19,Female,Foundation,3,Self-Study,1,4,Low,No,5,13,4,Not Applicable,29.2,Telangana,India,November,Fail
+395,28,Female,Foundation,11,Self-Study,3,7,Low,No,6,18,0,Not Applicable,34.4,Maharashtra,India,November,Fail
+396,27,Male,Intermediate,7,Offline,3,8,High,No,8,15,5,Not Applicable,34.9,Uttar Pradesh,India,May,Fail
+397,19,Male,Intermediate,6,Self-Study,2,6,Medium,No,9,20,3,Not Applicable,43.9,West Bengal,India,May,Pass
+398,27,Female,Foundation,8,Offline,2,5,High,No,7,6,1,Not Applicable,41.9,Karnataka,India,November,Pass
+399,18,Female,Final,8,Self-Study,1,6,High,No,5,7,3,Pursuing,44.1,Gujarat,India,May,Pass
+400,25,Male,Intermediate,4,Offline,3,5,High,No,9,18,3,Not Applicable,35.5,Tamil Nadu,India,November,Fail
+401,18,Female,Intermediate,10,Offline,1,8,High,No,4,19,2,Not Applicable,39.4,Kerala,India,May,Pass
+402,26,Female,Intermediate,9,Online,4,1,Medium,No,5,15,5,Not Applicable,49.3,Uttar Pradesh,India,November,Pass
+403,28,Male,Intermediate,3,Self-Study,1,7,Low,No,9,6,2,Not Applicable,27.4,Kerala,India,November,Fail
+404,23,Female,Foundation,7,Offline,5,10,Medium,Yes,4,8,3,Not Applicable,20,Karnataka,India,November,Fail
+405,24,Female,Foundation,8,Online,1,10,Low,No,5,12,1,Not Applicable,29,Maharashtra,India,May,Fail
+406,27,Female,Foundation,6,Online,5,2,Low,Yes,4,0,3,Not Applicable,20,Karnataka,India,November,Fail
+407,24,Male,Foundation,4,Offline,5,9,Medium,No,4,7,5,Not Applicable,20,Andhra Pradesh,India,May,Fail
+408,27,Male,Intermediate,6,Offline,5,1,High,No,5,3,2,Not Applicable,24.3,Delhi,India,November,Fail
+409,20,Female,Intermediate,3,Offline,4,10,High,No,5,2,1,Not Applicable,20,Tamil Nadu,India,November,Fail
+410,19,Male,Foundation,9,Self-Study,1,6,Medium,No,4,2,3,Not Applicable,31.1,Delhi,India,November,Fail
+411,26,Male,Intermediate,4,Online,1,9,High,No,8,12,4,Not Applicable,35.4,Karnataka,India,November,Fail
+412,25,Male,Foundation,4,Offline,4,1,Medium,No,5,7,5,Not Applicable,32.8,Maharashtra,India,November,Fail
+413,29,Male,Final,11,Online,3,4,Low,No,9,6,5,Completed,34.7,Maharashtra,India,May,Fail
+414,27,Male,Final,7,Self-Study,2,4,High,No,6,0,4,Pursuing,44.7,Telangana,India,May,Pass
+415,24,Male,Foundation,4,Self-Study,1,9,High,No,7,15,3,Not Applicable,30.2,Uttar Pradesh,India,May,Fail
+416,26,Male,Intermediate,11,Offline,2,5,High,No,4,5,5,Not Applicable,57.3,Telangana,India,November,Pass
+417,21,Male,Foundation,11,Offline,4,5,Low,No,4,6,1,Not Applicable,20,Tamil Nadu,India,November,Fail
+418,21,Female,Intermediate,3,Online,3,6,High,No,7,11,3,Not Applicable,24.2,Tamil Nadu,India,May,Fail
+419,18,Female,Intermediate,5,Offline,3,1,High,Yes,8,8,3,Not Applicable,36.4,Tamil Nadu,India,November,Fail
+420,25,Male,Foundation,6,Self-Study,3,1,High,No,7,10,2,Not Applicable,41.7,Kerala,India,November,Pass
+421,29,Female,Intermediate,9,Offline,4,9,High,No,5,9,5,Not Applicable,23.5,Telangana,India,November,Fail
+422,20,Male,Foundation,12,Online,5,3,High,No,7,20,5,Not Applicable,59.3,Kerala,India,May,Pass
+423,24,Female,Foundation,6,Offline,5,4,High,Yes,4,0,4,Not Applicable,36.8,Delhi,India,May,Pass
+424,29,Female,Intermediate,4,Self-Study,2,1,High,No,7,17,2,Not Applicable,45.2,Uttar Pradesh,India,May,Pass
+425,19,Female,Foundation,9,Online,5,9,High,Yes,6,3,2,Not Applicable,20,Karnataka,India,May,Fail
+426,19,Female,Intermediate,8,Online,5,8,High,No,9,4,5,Not Applicable,20.7,Gujarat,India,May,Fail
+427,24,Female,Intermediate,5,Offline,3,2,Medium,Yes,5,8,3,Not Applicable,26.1,Telangana,India,November,Fail
+428,23,Female,Final,8,Self-Study,3,8,High,No,7,16,2,Pursuing,32.8,Gujarat,India,November,Fail
+429,20,Male,Foundation,8,Online,2,7,Medium,No,4,2,4,Not Applicable,28.1,Maharashtra,India,November,Fail
+430,26,Male,Intermediate,7,Online,1,6,Medium,No,9,15,2,Not Applicable,47.3,Telangana,India,November,Pass
+431,27,Female,Intermediate,6,Online,2,1,High,Yes,5,4,4,Not Applicable,44.9,Delhi,India,May,Pass
+432,23,Male,Intermediate,12,Online,2,7,High,Yes,4,15,2,Not Applicable,60.9,Telangana,India,May,Pass
+433,27,Female,Final,3,Offline,4,10,High,No,8,2,4,Pursuing,20,Kerala,India,November,Fail
+434,27,Male,Intermediate,12,Offline,4,7,Medium,No,6,19,2,Not Applicable,39.9,Uttar Pradesh,India,May,Pass
+435,23,Male,Intermediate,8,Offline,2,9,High,No,8,14,2,Not Applicable,24.3,Karnataka,India,November,Fail
+436,18,Male,Intermediate,4,Offline,2,1,Medium,Yes,6,2,1,Not Applicable,20,West Bengal,India,November,Fail
+437,21,Male,Final,5,Online,2,2,High,No,7,19,4,Pursuing,53.2,Karnataka,India,November,Pass
+438,27,Female,Final,10,Self-Study,5,9,High,Yes,5,13,4,Pursuing,33,Karnataka,India,November,Fail
+439,23,Male,Intermediate,12,Offline,4,9,High,Yes,7,15,4,Not Applicable,33.5,Maharashtra,India,May,Fail
+440,23,Male,Intermediate,8,Self-Study,2,6,High,No,6,16,0,Not Applicable,35.1,Delhi,India,November,Fail
+441,28,Male,Foundation,5,Offline,3,6,High,No,6,19,2,Not Applicable,26.9,Gujarat,India,May,Fail
+442,29,Male,Foundation,9,Online,3,4,High,Yes,6,17,4,Not Applicable,42.6,Delhi,India,November,Pass
+443,22,Female,Intermediate,6,Offline,5,4,Low,Yes,9,17,5,Not Applicable,32.2,West Bengal,India,November,Fail
+444,18,Male,Foundation,11,Online,5,5,Medium,Yes,4,13,0,Not Applicable,20.6,Maharashtra,India,November,Fail
+445,25,Female,Intermediate,7,Offline,1,3,High,No,5,17,1,Not Applicable,38.4,Uttar Pradesh,India,November,Pass
+446,22,Female,Foundation,5,Online,1,1,High,No,7,14,4,Not Applicable,45.8,Karnataka,India,May,Pass
+447,29,Female,Foundation,4,Online,1,1,Medium,Yes,7,14,4,Not Applicable,47.4,Kerala,India,November,Pass
+448,29,Female,Intermediate,4,Self-Study,5,7,High,Yes,8,5,0,Not Applicable,20,Maharashtra,India,May,Fail
+449,29,Female,Final,5,Online,5,1,Medium,No,6,14,2,Pursuing,29.2,Tamil Nadu,India,November,Fail
+450,22,Female,Foundation,4,Self-Study,5,1,High,No,6,17,5,Not Applicable,32,Telangana,India,November,Fail
+451,24,Male,Intermediate,6,Online,3,3,High,No,6,3,1,Not Applicable,21.6,Delhi,India,November,Fail
+452,21,Male,Final,4,Offline,5,10,High,Yes,7,7,4,Completed,20,Maharashtra,India,May,Fail
+453,23,Male,Foundation,12,Offline,3,4,High,Yes,8,14,2,Not Applicable,47.7,Tamil Nadu,India,November,Pass
+454,21,Male,Final,11,Offline,1,4,Medium,No,4,2,5,Pursuing,48.4,Gujarat,India,November,Pass
+455,20,Female,Intermediate,4,Online,1,2,Medium,No,9,14,5,Not Applicable,41.1,West Bengal,India,November,Pass
+456,24,Female,Foundation,11,Online,1,1,High,Yes,5,12,1,Not Applicable,56.8,West Bengal,India,November,Pass
+457,25,Male,Final,8,Online,2,3,High,No,4,8,3,Pursuing,36,Karnataka,India,November,Fail
+458,21,Male,Foundation,3,Online,2,4,Medium,Yes,7,1,5,Not Applicable,24.1,Karnataka,India,May,Fail
+459,19,Male,Intermediate,6,Offline,4,3,High,No,9,7,3,Not Applicable,37.4,Maharashtra,India,May,Pass
+460,29,Female,Final,3,Self-Study,4,8,Medium,No,9,19,5,Pursuing,30,Maharashtra,India,November,Fail
+461,27,Female,Foundation,8,Self-Study,4,10,High,Yes,9,16,1,Not Applicable,20,Uttar Pradesh,India,November,Fail
+462,20,Male,Intermediate,6,Offline,2,1,High,No,6,12,0,Not Applicable,20,Telangana,India,May,Fail
+463,18,Female,Final,5,Offline,2,2,Medium,No,5,0,1,Pursuing,21.3,Andhra Pradesh,India,November,Fail
+464,25,Female,Foundation,5,Offline,4,7,Low,No,7,1,1,Not Applicable,20,Gujarat,India,May,Fail
+465,20,Male,Final,11,Online,4,4,High,No,7,14,0,Pursuing,43.6,Karnataka,India,November,Pass
+466,29,Female,Intermediate,8,Self-Study,5,8,High,No,9,11,0,Not Applicable,20.7,Andhra Pradesh,India,November,Fail
+467,27,Female,Intermediate,11,Offline,4,3,High,No,7,13,2,Not Applicable,41.9,Andhra Pradesh,India,May,Pass
+468,24,Male,Intermediate,7,Offline,5,6,High,No,5,1,5,Not Applicable,43.5,Telangana,India,November,Pass
+469,27,Male,Foundation,4,Online,3,9,High,No,5,17,2,Not Applicable,20,Kerala,India,May,Fail
+470,22,Male,Final,10,Offline,2,1,High,No,8,6,0,Pursuing,49.7,Kerala,India,May,Pass
+471,27,Male,Final,7,Offline,4,1,High,No,8,5,3,Pursuing,30.5,Karnataka,India,May,Fail
+472,22,Female,Intermediate,4,Self-Study,2,8,Medium,Yes,4,13,3,Not Applicable,20,Tamil Nadu,India,November,Fail
+473,24,Female,Intermediate,6,Offline,2,3,Medium,No,5,7,1,Not Applicable,35.7,Telangana,India,May,Fail
+474,26,Male,Intermediate,11,Online,2,5,Medium,No,5,1,4,Not Applicable,50,Telangana,India,May,Pass
+475,29,Male,Intermediate,6,Self-Study,3,1,High,No,5,16,1,Not Applicable,36,Delhi,India,November,Fail
+476,22,Male,Intermediate,6,Online,1,5,Medium,Yes,8,4,1,Not Applicable,20,Andhra Pradesh,India,November,Fail
+477,18,Male,Intermediate,4,Offline,4,6,High,Yes,9,13,4,Not Applicable,27.3,Delhi,India,November,Fail
+478,27,Female,Intermediate,8,Online,1,8,High,No,9,19,5,Not Applicable,51.1,Andhra Pradesh,India,November,Pass
+479,27,Male,Intermediate,4,Offline,1,3,High,No,7,20,0,Not Applicable,38.1,Kerala,India,November,Pass
+480,18,Male,Intermediate,9,Self-Study,1,3,Medium,Yes,9,20,3,Not Applicable,49.6,Karnataka,India,November,Pass
+481,19,Male,Foundation,5,Online,2,10,Low,No,6,2,1,Not Applicable,20,Gujarat,India,May,Fail
+482,23,Female,Foundation,5,Self-Study,5,9,Low,No,8,4,4,Not Applicable,20,Kerala,India,November,Fail
+483,26,Male,Intermediate,7,Online,2,4,Medium,No,5,15,2,Not Applicable,30.1,Telangana,India,May,Fail
+484,25,Female,Intermediate,5,Self-Study,2,4,Low,Yes,9,17,1,Not Applicable,36.5,Gujarat,India,November,Pass
+485,22,Male,Intermediate,4,Offline,1,7,High,Yes,8,16,3,Not Applicable,34.4,Maharashtra,India,May,Fail
+486,18,Female,Intermediate,12,Self-Study,2,2,High,No,9,10,0,Not Applicable,49.5,Gujarat,India,May,Pass
+487,24,Female,Intermediate,11,Online,1,8,High,Yes,4,16,1,Not Applicable,35.3,Gujarat,India,November,Fail
+488,22,Male,Intermediate,4,Self-Study,5,6,High,No,5,15,1,Not Applicable,20,Kerala,India,November,Fail
+489,23,Male,Foundation,4,Offline,4,3,Medium,No,4,1,5,Not Applicable,28.1,Telangana,India,May,Fail
+490,24,Female,Intermediate,10,Online,1,9,High,No,5,3,4,Not Applicable,50.6,Gujarat,India,November,Pass
+491,20,Female,Intermediate,11,Self-Study,5,5,High,No,8,20,2,Not Applicable,47.2,Kerala,India,November,Pass
+492,29,Male,Final,9,Online,4,8,Medium,No,7,6,2,Pursuing,20.7,Kerala,India,May,Fail
+493,27,Male,Intermediate,5,Self-Study,3,7,High,Yes,9,1,0,Not Applicable,20,Gujarat,India,May,Fail
+494,20,Female,Foundation,11,Online,1,8,Medium,No,9,5,3,Not Applicable,36.7,Andhra Pradesh,India,May,Pass
+495,22,Female,Foundation,5,Offline,1,7,High,No,6,16,0,Not Applicable,27.4,Telangana,India,November,Fail
+496,23,Male,Foundation,7,Offline,3,3,High,No,4,6,1,Not Applicable,25.4,West Bengal,India,November,Fail
+497,26,Female,Intermediate,11,Online,3,2,Low,Yes,9,4,1,Not Applicable,42.2,Gujarat,India,November,Pass
+498,29,Male,Foundation,5,Online,1,7,High,Yes,8,4,2,Not Applicable,20,Delhi,India,November,Fail
+499,22,Female,Intermediate,9,Online,3,3,High,No,7,19,3,Not Applicable,53.1,Delhi,India,May,Pass
+500,18,Male,Intermediate,3,Offline,2,3,High,No,8,15,4,Not Applicable,42.4,Maharashtra,India,November,Pass
